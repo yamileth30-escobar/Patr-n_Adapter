@@ -1,0 +1,7 @@
+D:\Analisis\Patron Adapter\patrón Adapter\patrón Adapter\bin\Debug\patrón Adapter.exe.config
+D:\Analisis\Patron Adapter\patrón Adapter\patrón Adapter\bin\Debug\patrón Adapter.exe
+D:\Analisis\Patron Adapter\patrón Adapter\patrón Adapter\bin\Debug\patrón Adapter.pdb
+D:\Analisis\Patron Adapter\patrón Adapter\patrón Adapter\obj\Debug\patrón Adapter.csproj.AssemblyReference.cache
+D:\Analisis\Patron Adapter\patrón Adapter\patrón Adapter\obj\Debug\patrón Adapter.csproj.CoreCompileInputs.cache
+D:\Analisis\Patron Adapter\patrón Adapter\patrón Adapter\obj\Debug\patrón Adapter.exe
+D:\Analisis\Patron Adapter\patrón Adapter\patrón Adapter\obj\Debug\patrón Adapter.pdb
